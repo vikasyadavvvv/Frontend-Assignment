@@ -1,7 +1,12 @@
-## Frontend Assignment
+# Frontend Assignment
+
+##Tech Stack
+- React + Vite
+- Tailwind CSS
+- React Icons
 
 
-# Instruction to run locally
+## Instruction to run locally
 ```bash
 git clone "https://github.com/vikasyadavvvv/Frontend-Assignment.git"
 cd Frontend-Assignment
