@@ -1,6 +1,6 @@
 # Frontend Assignment
 
-##Tech Stack
+## Tech Stack
 - React + Vite
 - Tailwind CSS
 - React Icons
