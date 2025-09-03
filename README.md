@@ -1,5 +1,7 @@
 # Frontend Assignment
 
+Live:https://frontend-assignment-lovat-one.vercel.app/
+
 ## Tech Stack
 - React + Vite
 - Tailwind CSS
