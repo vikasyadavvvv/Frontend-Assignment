@@ -3,7 +3,7 @@
 
 # Instruction to run locally
 ```bash
-git clone ""
+git clone "https://github.com/vikasyadavvvv/Frontend-Assignment.git"
 cd Frontend-Assignment
 npm install
 npm run dev
